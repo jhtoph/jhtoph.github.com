@@ -1,8 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:              
+title:            Jeena Hai To Peena Hai
+locale:           en_US            
 
 
 # Jekyll configuration
@@ -26,21 +25,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: "Rakesh Tembhurne"
+  avatar: "bio-photo.jpg"
+  bio: "Writer-Director of the film"
+  email: "rakesh@tembhurne.com"
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
-  google:
+  twitter: "tembhurnerakesh"
+  facebook: "rakeshtembhurne"
+  google: 
     plus: #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: "rakeshtembhurne"
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
