@@ -10,4 +10,5 @@ image:
   creditlink: /dhiraj-shende
 author: rakesh_tembhurne
 ---
-Rakesh is an entrepreneur, developer and Open Source advocate from central India. he love programming, reading and travelling.he has worked on creating rapid web applications with web app frameworks and technologies.
+
+Rakesh is an entrepreneur, developer and Open Source advocate from central India. He loves programming, reading and travelling. Rakesh is currently Chief Techology Officer at [Zero Mile EduTech](http://zeromileedutech.com "One of the leading education technology companies in central India"). **Jeena Hai To Peena Hai** is the first short film written and directed by Rakesh.
